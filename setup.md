@@ -1,13 +1,6 @@
 # Setup
 
-## 1. Clone the repo
-
-```sh
-git clone https://github.com/DanielhCarranza/ml-production-template.gitt
-cd ml-production-template
-```
-
-## 2. Set up the Python environment
+## Set up the Python environment
 
 ### If on GCP AI Platform Notebooks or AWS EC2 Deep Learning instance
 

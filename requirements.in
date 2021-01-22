@@ -3,5 +3,4 @@ flask
 h5py
 numpy
 requests
-pytorch
 tqdm

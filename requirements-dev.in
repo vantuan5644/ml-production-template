@@ -7,7 +7,8 @@ itermplot
 jupyterlab
 matplotlib
 mypy
-nltk
+numpy
+pandas
 pycodestyle
 pydocstyle
 pylint
